@@ -1,0 +1,14 @@
+body {
+    background: #1A2980;  
+    background: -webkit-linear-gradient(to right, #26D0CE, #1A2980);  
+    background: linear-gradient(to right, #26D0CE, #1A2980); 
+
+}footer{
+ font-family: fantasy;   
+}
+    .p-3{
+        background: none;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: green; text-shadow: 4px,4px;
+        
+    }
